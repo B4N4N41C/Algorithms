@@ -1,0 +1,28 @@
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe.config
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).pdb
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.AssemblyReference.cache
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.SuggestedBindingRedirects.cache
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1_AlgorithmsForSortingLinearDataCollections_.Form1.resources
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1_AlgorithmsForSortingLinearDataCollections_.Properties.Resources.resources
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.GenerateResource.cache
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.CoreCompileInputs.cache
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).pdb
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(class library).dll
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(class library).pdb
+D:\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.CopyComplete
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe.config
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).pdb
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(class library).dll
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\bin\Debug\Laba1(class library).pdb
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1_AlgorithmsForSortingLinearDataCollections_.Form1.resources
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1_AlgorithmsForSortingLinearDataCollections_.Properties.Resources.resources
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.GenerateResource.cache
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).csproj.CopyComplete
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).exe
+\\Mac\Home\Documents\Programming\SortingAlgorithms\Laba1(AlgorithmsForSortingLinearDataCollections)\obj\Debug\Laba1(AlgorithmsForSortingLinearDataCollections).pdb

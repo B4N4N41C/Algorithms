@@ -1,0 +1,12 @@
+D:\SortingAlgorithms\Laba1(class library)\bin\Debug\Laba1(class library).dll
+D:\SortingAlgorithms\Laba1(class library)\bin\Debug\Laba1(class library).pdb
+D:\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).csproj.AssemblyReference.cache
+D:\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).csproj.CoreCompileInputs.cache
+D:\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).dll
+D:\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).pdb
+D:\Programming\SortingAlgorithms\Laba1(class library)\bin\Debug\Laba1(class library).dll
+D:\Programming\SortingAlgorithms\Laba1(class library)\bin\Debug\Laba1(class library).pdb
+D:\Programming\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).csproj.AssemblyReference.cache
+D:\Programming\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).csproj.CoreCompileInputs.cache
+D:\Programming\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).dll
+D:\Programming\SortingAlgorithms\Laba1(class library)\obj\Debug\Laba1(class library).pdb
